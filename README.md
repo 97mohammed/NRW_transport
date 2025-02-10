@@ -10,8 +10,7 @@ The NRW Public Transport Management System is a comprehensive solution for manag
 
 - Manage public transport schedules
 - Route management
-- Ticketing system
-- User management
+
 
 ## Installation
 
