@@ -4,7 +4,7 @@ Welcome to the NRW Public Transport Management System repository. This project i
 
 ## Description
 
-The NRW Public Transport Management System is a comprehensive solution for managing public transport schedules, routes, and ticketing within the NRW region. It is developed using PHP.
+The NRW Public Transport Management System is a comprehensive solution for managing public transport scheduleswithin the NRW region. It is developed using PHP.
 
 ## Features
 
